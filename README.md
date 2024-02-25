@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Miroslav and I'm a passionate programmer.</h2>
+<h2 align="left">Hi 👋! My name is Miroslav and I'm a passionate java programmer. 😁</h2>
 
 ###
 
