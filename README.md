@@ -37,7 +37,7 @@
   <a href="https://www.twitch.tv/sweetz_tomato" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="https://discord.com/users/691702333393862748" target= "_blank">
+  <a href="https://discord.com/users/sweetz_tomato" target= "_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a> 
   <a href="https://www.linkedin.com/in/miroslavkolosnjaji/" target="_blank">
