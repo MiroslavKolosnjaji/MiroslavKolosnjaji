@@ -7,7 +7,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiroslavKolosnjaji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
+---
+
+### 🧰 Languages and Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
@@ -23,7 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
 </div>
 
-###
+##
+
+### 🌐 Social Network Profiles
 
 <img align="right" height="100" src="https://avatars.githubusercontent.com/u/22450468?s=400&u=94fa8d43ba8076e6cfd62319f4a3f4e2f3294e99&v=4"  />
 
