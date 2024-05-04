@@ -1,4 +1,4 @@
-<h2 align="left">Hi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="30" alt="wave"/>! My name is Miroslav and I'm a passionate java programmer. <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="30" alt="smile"  /> </h2>
+<h2 align="left">  Hey there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="30" alt="wave"/> I'm Miroslav, a Java enthusiast committed to exploring new possibilities through code and collaboration. <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="30" alt="smile"  /> </h2>
 
 ###
 
