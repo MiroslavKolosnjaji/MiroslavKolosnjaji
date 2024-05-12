@@ -28,9 +28,6 @@
 ##
 
 ### 🌐 Social Network Profiles
-
-<img align="right" height="100" src="https://avatars.githubusercontent.com/u/22450468?s=400&u=94fa8d43ba8076e6cfd62319f4a3f4e2f3294e99&v=4"  />
-
 ###
 
 <div align="left">
