@@ -14,22 +14,31 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://github.com/MiroslavKolosnjaji/ProjectImages/blob/main/Icons/JavaFX_Logo.png" height="50" alt="JavaFx logo" />
-  <img width="12">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" height="50" alt="maven logo"  />
+  <img src="  https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height = 50 alt= "spring logo"/>
+  <img width = 12>
+  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height = 50 alt= "springboot logo"/>
+  <img width = 12>
+  <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png
+  " height = 50 alt= "hibernate logo"/>
+  <img width = 12>
+  <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" height = 50 alt= "junit logo"/>
+  <img width = 12>
+  <img src="  https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" height = 50 alt= "mockito logo"/>
+  <img width = 12>
+  <img src="  https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" height = 50 alt= "lombok logo"/>
+  <img width = 12>
+  <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" height = 50 alt = "CI/CD logo">
+  <img width = 12>
+  <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+
 </div>
 
 ##
 
 ### 🌐 Social Network Profiles
-
-<img align="right" height="100" src="https://avatars.githubusercontent.com/u/22450468?s=400&u=94fa8d43ba8076e6cfd62319f4a3f4e2f3294e99&v=4"  />
 
 ###
 
