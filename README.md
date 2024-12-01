@@ -1,6 +1,8 @@
-<h2 align="left">  Hey there! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="30" alt="wave"/> I'm Miroslav, a Java enthusiast committed to exploring new possibilities through code and collaboration. <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" height="30" alt="smile"  /> </h2>
+<h3 align="left"> About Me: </h3>
+<strong>I'm Miroslav, a passionate Java developer with a strong focus on backend technologies.
+I enjoy learning and building scalable, high-performance applications. Through my projects, I aim to explore modern development practices, and continuously improve my skills.</strong>
 
-###
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MiroslavKolosnjaji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
