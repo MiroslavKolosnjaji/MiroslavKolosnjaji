@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Software+Developer;Backend+Developer;DS%20|%20Algorithms%20Explorer;Inspired+by+Lifelong+Learning&font=Fira+Code&color=F7D745FF&center=true&width=380&height=45"></a>
+</p>
+
 <h3 align="left"> About Me: </h3>
 <strong>
   
