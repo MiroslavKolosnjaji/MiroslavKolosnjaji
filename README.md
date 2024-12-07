@@ -62,7 +62,7 @@
     <img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg height= 35 alt="linkedin logo"/>
   </a>
   <img width = 5>
-  <a href="https://www.instagram.com/miroslav19_91/" target="_blank">
+  <a href="https://www.instagram.com/miroslav_kolosnjaji/" target="_blank">
     <img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg height= 35 alt="instagram logo"/>
   </a>
   <img width = 5>
