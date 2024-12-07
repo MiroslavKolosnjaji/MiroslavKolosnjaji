@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Software+Developer;Backend+Developer;DS%20|%20Algorithms%20Explorer;Advocate+for+SOLID+Principles;Believer+In+Clear+Code+Practices;Obsessed+with+Code+Readability;Unit+Testing+Evangelist;Continuous+Integration+Fanatic;Curious+About+Distributed+Systems;Inspired+by+Lifelong+Learning&font=Fira+Code&color=F7D745FF&center=true&width=500&height=45"></a>                                   
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Software+Developer;Backend+Developer;DS%20|%20Algorithms%20Explorer;Advocate+for+SOLID+Principles;Believer+In+Clear+Code+Practices;Obsessed+with+Code+Readability;Unit+Testing+Evangelist;Continuous+Integration+Fanatic;Curious+About+Distributed+Systems;Inspired+by+Lifelong+Learning&font=Fira+Code&size=30&color=F7D745FF&center=true&vCenter=true&width=800&height=45"></a>                                   
 </p>
 
 <h3 align="left"> About Me: </h3>
