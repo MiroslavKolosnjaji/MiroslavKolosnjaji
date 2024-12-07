@@ -9,8 +9,7 @@
  
 </strong>
 
-### GitHub Stats
-
+<h3 align="left"> GitHub Stats </h3>
 <table>
   <tr>
     <td>
@@ -24,12 +23,12 @@
   <div align="center">
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MiroslavKolosnjaji&theme=dark&hide_border=false" height="150" /> 
 </div>
+  
+<h3 align="left">Tech Stack:</h3>
 
-### 🧰 Languages and Tools
-
-<div align="left">
+<div align="left" padding=20>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
-  <img width="12" />
+  <img width="12"/>
   <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height = 50 alt= "spring logo"/>
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height = 50 alt= "springboot logo"/>
@@ -55,12 +54,12 @@
   alt= "intellij logo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-
 </div>
 
-##
 
-<div align="left">
+<h3 align="left">Socials:</h3>
+
+<div align="left" padding=20px>
   <a href="https://www.instagram.com/miroslav19_91/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
