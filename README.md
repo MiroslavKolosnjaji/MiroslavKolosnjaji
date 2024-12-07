@@ -55,10 +55,9 @@
   <img width="12" />
 </div>
 
+##
 
-<h3 align="left">Socials:</h3>
-
-<div align="left">
+<div align="center">
    <a href="https://www.linkedin.com/in/miroslavkolosnjaji/" target="_blank">
     <img src=https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg height= 35 alt="linkedin logo"/>
   </a>
