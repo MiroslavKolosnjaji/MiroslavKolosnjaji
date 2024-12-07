@@ -1,6 +1,9 @@
 <h3 align="left"> About Me: </h3>
-<strong>I'm Miroslav, a passionate Java developer with a strong focus on backend technologies.
-I enjoy learning and building scalable, high-performance applications. Through my projects, I aim to explore modern development practices, and continuously improve my skills.</strong>
+<strong>
+  
+ ### I'm Miroslav, a passionate Java developer with a strong focus on backend technologies. I enjoy learning and building scalable, high-performance applications. Through my projects, I aim to explore modern development practices, and continuously improve my skills.
+ 
+</strong>
 
 ### GitHub Stats
 
