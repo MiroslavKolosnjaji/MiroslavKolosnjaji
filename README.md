@@ -4,12 +4,18 @@ I enjoy learning and building scalable, high-performance applications. Through m
 
 ### GitHub Stats
 
-<div align="center">
+<table>
+  <tr>
+    <td>
   <img src="https://github-readme-stats.vercel.app/api?username=MiroslavKolosnjaji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <br></br>
+    </td>
+    <td>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiroslavKolosnjaji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MiroslavKolosnjaji&theme=dark&hide_border=false" /> 
+    </td>
+  </tr>
+  </table>
+  <div align="center">
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MiroslavKolosnjaji&theme=dark&hide_border=false" height="150" /> 
 </div>
 
 ### 🧰 Languages and Tools
@@ -71,8 +77,8 @@ I enjoy learning and building scalable, high-performance applications. Through m
 
 <img src="https://raw.githubusercontent.com/MiroslavKolosnjaji/MiroslavKolosnjaji/output/snake.svg" alt="Snake animation" />
 
-###
+<!-- ###
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=MiroslavKolosnjaji.MiroslavKolosnjaji&left_color=green&right_color=slategrey"  />
 
-###
+### -->
