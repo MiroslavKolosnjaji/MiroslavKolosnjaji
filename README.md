@@ -2,31 +2,34 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Software+Developer;Backend+Developer;DS%20|%20Algorithms%20Explorer;Advocate+for+SOLID+Principles;Believer+In+Clear+Code+Practices;Obsessed+with+Code+Readability;Unit+Testing+Evangelist;Continuous+Integration+Fanatic;Curious+About+Distributed+Systems;Inspired+by+Lifelong+Learning&font=Fira+Code&size=30&color=F7D745FF&center=true&vCenter=true&width=800&height=45"></a>                                   
 </p>
 
-<h3 align="left"> About Me: </h3>
-<strong>
+<h3 align="center"> About Me: </h3>
+
+<div align="center">
+  <strong>
   
  ### I'm Miroslav, a passionate Java developer with a strong focus on backend technologies. I enjoy learning and building scalable, high-performance applications. Through my projects, I aim to explore modern development practices, and continuously improve my skills.
  
 </strong>
+</div>
 
-<h3 align="left"> GitHub Stats </h3>
-<table>
+<h3 align="center"> GitHub Stats </h3>
+<table align="center">
   <tr>
     <td>
   <img src="https://github-readme-stats.vercel.app/api?username=MiroslavKolosnjaji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
     </td>
     <td>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiroslavKolosnjaji&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MiroslavKolosnjaji&theme=dark&hide_border=false" height="150" /> 
     </td>
   </tr>
   </table>
   <div align="center">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MiroslavKolosnjaji&theme=dark&hide_border=false" height="150" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiroslavKolosnjaji&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
   
-<h3 align="left">Tech Stack:</h3>
+<h3 align="center">Tech Stack:</h3>
 
-<div align="left">
+<div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12"/>
   <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height = 50 alt= "spring logo"/>
@@ -82,8 +85,10 @@
 ###
 
 <br clear="both">
+<div align="center">
+    <img src="https://raw.githubusercontent.com/MiroslavKolosnjaji/MiroslavKolosnjaji/output/snake.svg" alt="Snake animation" />
+</div>
 
-<img src="https://raw.githubusercontent.com/MiroslavKolosnjaji/MiroslavKolosnjaji/output/snake.svg" alt="Snake animation" />
 
 <!-- ###
 
