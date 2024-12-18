@@ -29,95 +29,36 @@
 
 <h3 align="center" style="margin-bottom: 20px;  margin-top: 40px;">Tech Stack</h3>
 
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <div style="text-align: center;">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
-  <p style="font-weight: bold;">Java</p>
-  </div>
-
-  <div style="text-align: center">
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height = 50 alt= "spring logo"/>
-  <p style="font-weight: bold;">Spring</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height = 50 alt= "springboot logo"/>
-  <p style="font-weight: bold;">Spring Boot</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" height = 50 alt= "hibernate logo"/>
-  <p style="font-weight: bold;">Hibernate</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" height = 50 alt= "junit logo"/>
-  <p style="font-weight: bold;">JUnit</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" height = 50 alt= "mockito logo"/>
-  <p style="font-weight: bold;">Mockito</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" height = 50 alt= "lombok logo"/>
-  <p style="font-weight: bold;">Project Lombok</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" height = 50 alt = "CI/CD logo">
-  <p style="font-weight: bold;">CircleCI</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height= 50 alt="mysql logo"  />
-  <p style="font-weight: bold;">MySQL</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height= 50 alt="postgres logo"  />
-  <p style="font-weight: bold;">PostgreSQL</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
-  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height= 50 alt="postgres logo"  />
-  <p style="font-weight: bold;">MongoDB</p>
-  </div>
-
-  <div style="text-align: center">
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height= 50 alt="mongodb logo"  />
   <img width = 12>
-  <img src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png" height= 50 alt="testcontainers logo"  />
-  <p style="font-weight: bold;">Testcontainers</p>
-  </div>
-
-  <div style="text-align: center">
+  <img src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png" height= 50 alt="testcontainers logo" />
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height = 50 alt= "postman logo"/>
-  <p style="font-weight: bold;">Postman</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" height = 50 alt= "intellij logo">
-  <p style="font-weight: bold;">IntelliJ Idea</p>
-  </div>
-
-  <div style="text-align: center">
   <img width = 12>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
-  <p style="font-weight: bold;">Git</p>
-  </div>
 </div>
 
 ##
