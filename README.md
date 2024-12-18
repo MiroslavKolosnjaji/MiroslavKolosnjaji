@@ -1,3 +1,4 @@
+
 <h3 align="left"> About Me: </h3>
 <strong>I'm Miroslav, a passionate Java developer with a strong focus on backend technologies.
 I enjoy learning and building scalable, high-performance applications. Through my projects, I aim to explore modern development practices, and continuously improve my skills.</strong>
@@ -22,6 +23,7 @@ I enjoy learning and building scalable, high-performance applications. Through m
 
 <div align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+ <p>Java</p>
   <img width="12" />
   <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height = 50 alt= "spring logo"/>
   <img width = 12>
@@ -40,8 +42,11 @@ I enjoy learning and building scalable, high-performance applications. Through m
   <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height="50" alt="mysql logo"  />
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height="50" alt="postgres logo"  />
-    <img width="12" />
-  <img width = 12>
+  <img width="12" />
+  <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height = 50 alt= "mongodb logo"/>
+  <img width="12" />
+  <img src="  https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png" height = 50 alt= "testcontainers logo"/>
+  <img width="12" />
    <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height = 50 alt= "postman logo"/>
   <img width = 12>
   <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" height = 50
