@@ -16,15 +16,15 @@
 <table align="center">
   <tr>
     <td>
-  <img src="https://github-readme-stats.vercel.app/api?username=MiroslavKolosnjaji&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
+      <img src="https://github-readme-stats.vercel.app/api?username=MiroslavKolosnjaji&theme=onedark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
     </td>
     <td>
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MiroslavKolosnjaji&theme=dark&hide_border=false" height="150" /> 
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-eta.vercel.app?user=MiroslavKolosnjaji&theme=codestackr" alt="GitHub Streak" height="150"/></a>
     </td>
   </tr>
   </table>
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiroslavKolosnjaji&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiroslavKolosnjaji&locale=en&hide_title=false&layout=compact&card_width=600&langs_count=5&theme=onedark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 <h3 align="center" style="margin-bottom: 20px;  margin-top: 40px;">TECH STACK</h3>
