@@ -42,103 +42,125 @@
       <img src="https://user-images.githubusercontent.com/25181517/117201470-f6d56780-adec-11eb-8f7c-e70e376cfd07.png" height = 50 alt= "spring logo"/>
       <img width = 12>
        <p>
-        <strong align="center">Spring</strong>
+        <strong>Spring</strong>
       </p>
     </td>
     <td align="center" width="150">
       <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" height = 50 alt= "springboot logo"/>
       <img width = 12>
        <p>
-        <strong align="center">Spring Boot</strong>
+        <strong>Spring Boot</strong>
       </p>
     </td>
     <td align="center" width="150">
        <img src="https://user-images.githubusercontent.com/25181517/117207493-49665200-adf4-11eb-808e-a9c0fcc2a0a0.png" height = 50 alt= "hibernate logo"/>
        <img width = 12>
         <p>
-        <strong align="center">Hibernate</strong>
-      </p>
-    </td>
-    <td align="center" width="150">
-      <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" height = 50 alt= "junit logo"/>
-      <img width = 12>
-      <p>
-        <strong align="center">JUnit</strong>
-      </p>
-    </td>
-    <td align="center" width="150">
-      <img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" height = 50 alt= "mockito logo"/>
-      <img width = 12>
-      <p>
-        <strong align="center">Mockito</strong>
+        <strong>Hibernate</strong>
       </p>
     </td>
     <td align="center" width="150">
       <img src="https://user-images.githubusercontent.com/25181517/190229463-87fa862f-ccf0-48da-8023-940d287df610.png" height = 50 alt= "lombok logo"/>
       <img width = 12>
       <p>
-        <strong align="center">Lombok</strong>
+        <strong>Lombok</strong>
       </p>
     </td>
        <td align="center" width="150">
-      <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" height = 50 alt = "CI/CD logo">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flyway.png" height = 50 alt= "junit logo"/>
       <img width = 12>
       <p>
-        <strong align="center">CircleCI</strong>
+        <strong>Flyway</strong>
       </p>
     </td>
-  </tr>
-   <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" height = 50 alt= "junit logo"/>
+      <img width = 12>
+      <p>
+        <strong>Rest Api</strong>
+      </p>
+    </td>
+     <td align="center">
+      <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height = 50 alt= "postman logo"/>
+      <img width = 12>
+      <p>
+        <strong>Postman</strong>
+      </p>
+    </td>
+    </tr>
+    <tr>
+    <td align="center" width="150">
+      <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" height = 50 alt= "junit logo"/>
+      <img width = 12>
+      <p>
+        <strong>JUnit</strong>
+      </p>
+    </td>
+    <td align="center" width="150">
+      <img src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" height = 50 alt= "mockito logo"/>
+      <img width = 12>
+      <p>
+        <strong>Mockito</strong>
+      </p>
+    </td>
+     <td align="center">
+      <img src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png" height= 50 alt="testcontainers logo" />
+      <img width = 12>
+      <p>
+        <strong>Testcontainers</strong>
+      </p>
+    </td>
     <td align="center">
       <img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" height= 50 alt="mysql logo"  />
       <img width = 12>
       <p>
-        <strong align="center">MySQL</strong>
+        <strong>MySQL</strong>
       </p>
     </td>
     <td align="center">
        <img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" height= 50 alt="postgres logo"  />
        <img width = 12>
        <p>
-        <strong align="center">PostgreSQL</strong>
+        <strong>PostgreSQL</strong>
       </p>
     </td>
     <td align="center">
        <img src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" height= 50 alt="mongodb logo"  />
        <img width = 12>
        <p>
-        <strong align="center">MongoDB</strong>
+        <strong>MongoDB</strong>
       </p>
     </td>
     <td align="center">
-      <img src="https://user-images.githubusercontent.com/25181517/184097317-690eea12-3a26-4f7c-8521-729ebbbb3f98.png" height= 50 alt="testcontainers logo" />
+      <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" height = 50 alt= "maven logo"/>
       <img width = 12>
       <p>
-        <strong align="center">Testcontainers</strong>
+        <strong>Maven</strong>
       </p>
     </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" height = 50 alt= "postman logo"/>
+    <td align="center" width="150">
+      <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" height = 50 alt = "CI/CD logo">
       <img width = 12>
       <p>
-        <strong align="center">Postman</strong>
+        <strong>CircleCI</strong>
       </p>
     </td>
-    <td align="center">
+  </tr>
+  <tr>
+    <td align="center" colspan=4>
       <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" height = 50 alt= "intellij logo">
       <img width = 12>
       <p>
-        <strong align="center">IntelliJ Idea</strong>
+        <strong>IntelliJ Idea</strong>
       </p>
     </td>
-     <td align="center">
+     <td align="center" colspan=4>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
       <img width = 12>
       <p>
-        <strong align="center">Git</strong>
+        <strong>Git</strong>
       </p>
     </td>
-    <td></td>
   </tr>
 </table>
 
