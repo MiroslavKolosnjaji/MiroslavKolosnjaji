@@ -19,7 +19,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=MiroslavKolosnjaji&theme=onedark&show_icons=true&hide_border=false&count_private=true" height="150" alt="stats graph"  />
     </td>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-eta.vercel.app?user=MiroslavKolosnjaji&theme=codestackr" alt="GitHub Streak" height="150"/></a>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-eta.vercel.app?user=MiroslavKolosnjaji&theme=codestackr&starting_year=2023" alt="GitHub Streak" height="150"/></a>
     </td>
   </tr>
   </table>
