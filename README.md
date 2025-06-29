@@ -33,7 +33,6 @@
   <tr>
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo" />
-      <img width="12" />
       <p>
         <strong align="center" >Java</strong>
       </p>
@@ -91,7 +90,6 @@
     <tr>
     <td align="center" width="150">
       <img src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" height = 50 alt= "junit logo"/>
-      <img width = 12>
       <p>
         <strong>JUnit</strong>
       </p>
