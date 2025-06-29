@@ -74,10 +74,10 @@
       </p>
     </td>
     <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" height = 50 alt= "junit logo"/>
+      <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" height = 50 alt= "junit logo"/>
       <img width = 12>
       <p>
-        <strong>Rest Api</strong>
+        <strong>Swagger</strong>
       </p>
     </td>
      <td align="center">
