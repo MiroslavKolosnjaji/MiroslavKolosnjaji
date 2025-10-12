@@ -118,19 +118,25 @@
       </p>
     </td>
     <td align="center">
+       <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/redis.png" height= 50 alt="mongodb logo"  />
+       <p>
+        <strong>Redis</strong>
+      </p>
+    </td>
+    <td align="center">
       <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" height = 50 alt= "maven logo"/>
       <p>
         <strong>Maven</strong>
       </p>
     </td>
-    <td align="center" width="150">
+  </tr>
+  <tr>
+      <td align="center" colspan= 2>
       <img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" height = 50 alt = "CI/CD logo">
       <p>
         <strong>CircleCI</strong>
       </p>
     </td>
-  </tr>
-  <tr>
       <td align="center" colspan=2>
       <img src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" height = 50 alt= "kafka logo"/>
       <p>
@@ -143,16 +149,18 @@
         <strong>Docker</strong>
       </p>
     </td>
-    <td align="center" colspan=2>
-      <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" height = 50 alt= "intellij logo">
-      <p>
-        <strong>IntelliJ Idea</strong>
-      </p>
-    </td>
      <td align="center" colspan=2>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
       <p>
         <strong>Git</strong>
+      </p>
+    </td>
+  </tr>
+  <tr>
+  <td align="center" colspan=8>
+      <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" height = 50 alt= "intellij logo">
+      <p>
+        <strong>IntelliJ Idea</strong>
       </p>
     </td>
   </tr>
@@ -188,7 +196,6 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/MiroslavKolosnjaji/MiroslavKolosnjaji/output/snake.svg" alt="Snake animation" />
 </div>
-
 
 <!-- ###
 
