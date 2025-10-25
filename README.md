@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Java+Software+Developer;Backend+Developer;DS%20|%20Algorithms%20Explorer;Advocate+for+SOLID+Principles;Believer+In+Clear+Code+Practices;Obsessed+with+Code+Readability;Unit+Testing+Evangelist;Continuous+Integration+Fanatic;Curious+About+Distributed+Systems;Exploring+Microservices+Architecture;Inspired+by+Lifelong+Learning&font=Fira+Code&size=30&color=F7D745FF&center=true&vCenter=true&width=800&height=45"></a>                                   
+      <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Backend+Software+Developer;Curious+About+Software+Design;System+Design+Explorer;Interested+in+Software+Architectural+Styles;Believer+in+Clean+Code+Practices;Obsessed+with+Code+Readability;Code+Quality+Advocate;Refactoring+Addict;DS%20%26%20Algorithms+Explorer;Advocate+for+SOLID+Principles;Unit+Testing+Evangelist;Continuous+Integration+Fanatic;Lifelong+Learner;Passionate+About+Domain-Driven+Design;Exploring+Open-Source+Contributions;Automation+Enthusiast;Performance+Optimization+Seeker&font=Fira+Code&size=28&color=F7D745FF&center=true&vCenter=true&width=1000&height=60">
+  </a>                                
 </p>
 
 <h3 align="center" style="margin-bottom: 20px;">ABOUT ME</h3>
