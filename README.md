@@ -9,7 +9,7 @@
 <div align="center">
   <strong>
   
- ### I'm Miroslav, a passionate Java developer with a strong focus on backend technologies. I enjoy learning and building scalable, high-performance applications. Through my projects, I aim to explore modern development practices, and continuously improve my skills.
+ ### I'm Miroslav, a Java backend developer passionate about building scalable, maintainable, and well-designed applications. I enjoy exploring modern software architectures, focusing on writing clean, structured code and modeling systems thoughtfully, and continuously improving my skills through hands-on projects.
  
 </strong>
 </div>
